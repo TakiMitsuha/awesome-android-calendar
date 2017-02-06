@@ -66,6 +66,7 @@ A curated list of awesome Android Calendar libraries.
 - [dpreussler/clean-simple-calendar](https://github.com/dpreussler/clean-simple-calendar)
 - [TouchBoarder/weekdays-buttons-bar](https://github.com/TouchBoarder/weekdays-buttons-bar)
 - [brucetoo/PickView](https://github.com/brucetoo/PickView)
+- [sickmartian/CalendarView](https://github.com/sickmartian/CalendarView)
 
 ## 附注
 
